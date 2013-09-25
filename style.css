@@ -41,7 +41,10 @@ table.cmb_metabox .cmb_media_status .img_status .cmb_remove_file_button, table.c
  */
 table.cmb_metabox .wp-color-result, table.cmb_metabox .wp-picker-input-wrap { vertical-align: middle; }
 table.cmb_metabox .wp-color-result, table.cmb_metabox .wp-picker-container { margin: 0 10px 0 0; }
-
+/**
+ * oEmbed
+ */
+table.cmb_metabox iframe { max-width: 100%; }
 /**
  * Timepicker
  */
